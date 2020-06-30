@@ -1,0 +1,215 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	color: #7581a1;
+	line-height: 26px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 80px;
+	font-weight: 600;
+	color: #192b59;
+}
+.nav {
+	font-size: 12px;
+	font-weight: 700;
+	color: #6e7ea9;
+	text-transform: uppercase; 
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.btn-primary {
+	color: #fff;
+	font-size: 12px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase; 
+	font-weight: 700;
+	background-color: #1085e4;
+	border: 1px solid #1085e4;
+	padding: 20px 40px;
+	border-radius: 30px;
+}
+.btn-primary:hover{
+    background-color: #fff;
+    color:#1085e4;
+}
+.btn-secondary {
+	color: #7e8bae;
+	font-size: 12px;
+	letter-spacing: 2.5px;
+	text-transform: uppercase; 
+	font-weight: 700;
+	background-color: #cbdbe8;
+	border: 1px solid #cbdbe8;
+	padding: 20px 40px;
+	border-radius: 30px;
+}
+
+.btn-secondary:hover{
+    background-color: #fff;
+   
+}
+.btn-free {
+	font-weight: 400;
+	background-color: #1085e4;
+	padding: 21px 56px;
+	letter-spacing: 1.7px;
+}
+
+.btn-info{
+	color: #8085b1;
+	background-color: transparent;
+	border: 1px solid #dce1e5;
+	font-size: 12px;
+	letter-spacing: 2.5px;
+	font-weight: 700;
+	padding: 20px 40px;
+	border-radius: 30px;
+	text-transform: uppercase;
+}
+
+.btn-group a+a{
+    margin-left: 15px;
+}
+.grid h2 {
+	font-size: 40px;
+    color: #192b59;
+    font-weight: 700;
+}
+.grid h2 span {
+	font-size: 14px;
+	color: #1085e4;
+	text-transform: uppercase;
+	display: block;
+	letter-spacing: 3px
+}
+.grid-item h3 {
+	font-size: 20px;
+    color: #192b59;
+    font-weight: 600;
+}
+
+.grid-item a {
+	font-size: 14px;
+	font-weight: 600;
+	color: #1085e4;
+}
+
+.grid p span {
+	font-size: 16px;
+    font-weight: 700;
+    color: #192b59;
+}
+
+.page-subscribe h2 {
+	font-size: 50px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.page-subscribe h2 span {
+	font-size: 14px;
+    font-weight: 800;
+    color: #00bffe;
+    display: block;
+    letter-spacing: 3px
+}
+
+.page-subscribe {
+	font-size: 18px;
+	color: #dfe8ff;
+    font-weight: 400;
+}
+
+.page-software h2 {
+	font-size: 50px;
+    color: #192b59;
+    font-weight: 600;
+
+}
+
+.page-software dt{
+	font-size: 16px;
+	color: #5a6789;
+    font-weight: 700;
+}
+
+.page-stat h2 {
+	font-size: 50px;
+	color: #192b59;
+    font-weight: 600;
+    text-align: center;
+}
+.page-stat h2 span {
+	font-size: 16px;
+    color: #1085e4;
+    font-weight: 800;
+    display: block;
+    letter-spacing: 3px
+}
+.page-stat li {
+	font-size: 12px;
+	color: #1085e4;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.page-stat li span {
+	font-size: 60px;
+	color: #bacbdc;
+	font-weight: 700;
+	display: block;
+}
+
+.page-app h2 {
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+.note {
+	font-size: 16px;
+	font-weight: 700;
+	color: #c4d2dd;
+	text-transform: uppercase;
+}
+
+.page-analytics h2{
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+.page-analytics2 h2{
+	font-size: 50px;
+	font-weight: 600;
+	color: #192b59;
+}
+
+.page-analytics a{
+	font-size: 12px;
+	font-weight: 700;
+	color: #fff;
+	background-color: #1085e4
+}
+
+.page-screen h2 {
+	font-size: 40px;
+	font-weight: 600;
+	color: #192b59;
+	text-align: center;
+}
+
+.page-screen h2 span {
+	font-size: 18px;
+	font-weight: 800;
+	color: #1085e4;
+	text-transform: uppercase;
+	display: block;
+	letter-spacing: 3px;
+}
